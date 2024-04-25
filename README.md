@@ -1,4 +1,3 @@
-# Margarita-Craft
 <!DOCTYPE html>
 <html>
 <head>
